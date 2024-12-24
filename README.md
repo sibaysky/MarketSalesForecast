@@ -4,7 +4,7 @@ System for market place sales prediction
 Datasets links:
 
 https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data
-\n
+
 https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
 
 Original research:
